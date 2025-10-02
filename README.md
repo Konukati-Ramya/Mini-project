@@ -104,6 +104,13 @@ Remote Access: Medical staff can monitor storage conditions anytime, anywhere.
 ├── /results       # Experimental outputs & logs
 └── README.md      # Project overview
 
+## Output:
+
+<img width="1920" height="1080" alt="Screenshot 2024-12-19 191156" src="https://github.com/user-attachments/assets/6d439e71-4e33-4b56-bb83-ef5eb31a5ce4" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2024-12-19 191632" src="https://github.com/user-attachments/assets/3a7721b4-a610-4458-b949-c06dcec6f90c" />
+
 
 
 ## 🔮 Future Enhancements
